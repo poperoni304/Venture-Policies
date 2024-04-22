@@ -12,7 +12,7 @@
 
 # Who has access to the data?
 
-- The ony users with access to the previously mentioned data are bot staff and developers for Venture, server owners/staff of servers that use Venture do not and will **NEVER** have access to the user information associated with your vents **unless a report is filed on you, or our team feels you or another user is in immediate physical danger.**
+- The ony users with access to the previously mentioned data are bot staff and developers for Venture, server owners/staff of servers that use Venture do not and will **NEVER** have access to the user information associated with your vents ***unless a report is filed on you, or our team feels you or another individual is in immediate physical danger.***
 
 # How do i request data from me to be deleted?
 - Any user can request data removal by joining our [support sevrer](https://google.com) and DMing a developer directly explaining the inquiry, at this point we will review the request, the data associated with the request, and wipe any data requested by the individual from our database and private Discord guild.
