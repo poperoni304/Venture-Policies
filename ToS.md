@@ -7,7 +7,7 @@
 
 - You may **not** use Venture to anonymously impersonate any individual, company, or service. 
 
-- Venture users are required to be above the age of 13, this is due to [Discord ToS (Terms of Service)](https://discord.com/terms/) as stated above.
+- Venture users are required to be the age of 13 or above, this is due to [Discord ToS (Terms of Service)](https://discord.com/terms/) as stated above.
 
 # Our Actions:
 - Venture staff reserves the right to globally ban any user from using the bot at any point in time without further explanation and/or reasoning.
