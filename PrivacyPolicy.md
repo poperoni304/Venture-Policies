@@ -8,13 +8,13 @@
 
 - Command logs for all application (slash) commands used by Venture and corresponding content from user input fields are stored. This information is retained to verify the integrity of requested content and to assist in handling reports, as well as ensuring compliance with third-party APIs when accessing data.
 
-- Vent content of all messages sent through /anon-vent, including message content and files, is stored. This is done to promptly address any offensive, discriminatory, or otherwise undesirable content sent through Venture. ***This information is kept in a private Discord guild accessible only to Venture staff and developers and is never transferred off-site or to any external database.***
+- Vent content of all messages sent through /anon-vent, including message content and files, is stored. This is done to promptly address any offensive, discriminatory, or otherwise undesirable content sent through Venture. This data is also stored in our database and is used for vent reply notifications. (Note that data is encrypted within the database and can only be accessed with proper credentials)
 
 # Who Has Access To The Data?
 
 - The only users with access to the previously mentioned data are bot staff and developers for Venture, server owners/staff of servers that use Venture do not and will **NEVER** have access to the user information associated with your vents ***unless a report is filed on you, or our team feels you or another individual is in immediate physical danger.***
 
-- Venture staff may send vent content to be analyzed by a trusted company such as Google under specific conditions such as translating vent content to English or another language, this may be done to ensure Venture staff can read the content in their primary language and make sure it's compliant with our [ToS](https://github.com/poperoni304/Venture-Policies/blob/02e9b68d4245b2fb33a17570c8b525a286284a99/ToS.md). Doing the following is not a decision taken lightly and we will only do so under specific circumstances.
+- Venture staff may send vent content to be analyzed by a trusted company such as Google under specific conditions such as translating vent **content** to English or another language, this may be done to ensure Venture staff can read the content in their primary language and make sure it's compliant with our [ToS](https://github.com/poperoni304/Venture-Policies/blob/02e9b68d4245b2fb33a17570c8b525a286284a99/ToS.md). Doing the following is not a decision taken lightly and we will only do so under specific circumstances. (Only vent content may be analyzed, no user information will be associated)
 
 # How Do I Request Data From Me To Be Deleted?
 - Any user can request data removal by joining our [support server](https://discord.gg/47zwGyHCtW) and DMing a developer directly explaining the inquiry, at this point we will review the request, the data associated with the request, and wipe any data requested by the individual from our database and private Discord guild.
