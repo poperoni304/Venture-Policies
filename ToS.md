@@ -7,10 +7,12 @@
 
 - You may **not** use Venture to anonymously impersonate any individual, company, or service. 
 
+- You may **not** abuse our systems in place to provide user information under specific conditions in the event of a report, **doing so will result in an unappealable global report blacklist.**
+
 - Venture users are required to be the age of 13 or above, this is due to [Discord ToS (Terms of Service)](https://discord.com/terms/) as stated above.
 
 # Our Actions:
-- Venture staff reserves the right to globally ban any user from using the bot at any point in time without further explanation and/or reasoning.
+- Venture staff reserves the right to globally ban any user from using any feature of bot at any point in time without further explanation and/or reasoning.
 
 - Venture staff reserves the right to report any content implying possible real world harm to any individual to the authorities.
 
